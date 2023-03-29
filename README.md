@@ -17,9 +17,11 @@ npm run preview -- --port 5001
 ```
 
 ### Bug
-In module federation `@vueuse/core` > `useStorage` is not reactive
+Link: https://github.com/vueuse/vueuse/issues/2916
 
-DOC: https://vueuse.org/core/useStorage/
+Description: In module federation `@vueuse/core` > `useStorage` is not reactive
+
+Function: https://vueuse.org/core/useStorage/
 
 ![Screenshot.png](Screenshot.png)
 open http://localhost:5000
